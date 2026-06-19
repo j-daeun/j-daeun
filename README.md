@@ -1,10 +1,10 @@
 <!-- jde readme -->
 
-![title](https://capsule-render.vercel.app/api?type=waving&height=321&text=DaEun's%20GitHub&fontAlignY=30&desc=Frontend%20Developer-nl-who%20builds%20smooth,%20reliable%20web%20experiences&descSize=25&descAlignY=52&color=gradient&customColorList=19)
+![title](https://capsule-render.vercel.app/api?type=waving&height=260&text=DaEun's%20GitHub&fontSize=50&fontAlignY=25&desc=Frontend%20Developer-nl-who%20builds%20smooth,%20reliable%20web%20experiences&descSize=22&descAlignY=45&color=gradient&customColorList=19)
 <br>
 
 <!-- About Me -->
-## <img src="https://raw.githubusercontent.com/j-daeun/j-daeun/main/assets/icons/person_search.svg" width="36" align="absmiddle" style="vertical-align:middle; position:relative; top:6px" /> About Me
+## <img src="https://raw.githubusercontent.com/j-daeun/j-daeun/main/assets/icons/person_search.svg" width="36" align="absmiddle" /> About Me
 
 - AI·프론트엔드 간 역할 재설계로 생성 정확도 향상, 비용 50% 절감
 - 노코드 웹빌더 SaaS 에디터 개발·운영 → AI 연계 기능 개발로 확장
@@ -13,7 +13,7 @@
 <br>
 
 <!-- Tech Stack -->
-## <img src="https://raw.githubusercontent.com/j-daeun/j-daeun/main/assets/icons/construction.svg" width="36" align="absmiddle" style="vertical-align:middle; position:relative; top:6px" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/j-daeun/j-daeun/main/assets/icons/construction.svg" width="36" align="absmiddle" /> Tech Stack
 
 <div align="left">
 
@@ -50,13 +50,13 @@
 <br> -->
 
 <!-- Contact -->
-## <img src="https://raw.githubusercontent.com/j-daeun/j-daeun/main/assets/icons/contact_support.svg" width="36" align="absmiddle" style="vertical-align:middle; position:relative; top:6px" /> Contact
+## <img src="https://raw.githubusercontent.com/j-daeun/j-daeun/main/assets/icons/contact_support.svg" width="36" align="absmiddle" /> Contact
 
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/j--daeun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-daeun)
 [![Email](https://img.shields.io/badge/jdaeun0829%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdaeun0829@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](GOOGLE_DRIVE_LINK)
-[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/아이디)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/jdaeun0829)
  
 </div>
